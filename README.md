@@ -6,15 +6,14 @@ Najjednostavniji kod na svijetu je tu.
 
 # Instalacija
 
-Skinite zip datoteke Lunapark i lunaparkmlo u svoje resources i raspakirajte.
-U server.cfg dodajte sljedeće retke: 
+Skinite zip datoteku Renta-gokart u svoje resources i raspakirajte te ju
+preimenujte iz Renta-gokart-main u [Renta-gokart].
 
-"ensure Lunapark" 
-"ensure lunaparkmlo"
+U server.cfg dodajte sljedeći redak: 
 
+"ensure [Renta-gokart]" 
  
 -- dodajte bez ""
--- ako već imate na serveru postojeću mapu za mlo slobosno je samo dodajte unutra.
 
 # Posuđeni MLO
 
