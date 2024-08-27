@@ -14,6 +14,8 @@ U server.cfg dodajte sljedeći redak:
 "ensure [Renta-gokart]" 
  
 -- dodajte bez ""
+# Link za download resursa 
+https://github.com/Alf46air/Renta-gokart
 
 # Posuđeni MLO
 
