@@ -15,7 +15,7 @@ U server.cfg dodajte:
 -- dodajte bez ""
 -- ako već imate na sevveru postojeću mapu za mlo slobosno ju samo dodajte unutara.
 
-# Posuđenai MLO
+# Posuđeni MLO
 
 Posuđeni MLO je od Patoche
 [https://www.gta5-mods.com/users/Patoche](https://www.gta5-mods.com/users/Patoche/files)
