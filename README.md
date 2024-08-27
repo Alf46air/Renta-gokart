@@ -10,7 +10,7 @@ Skinite zip datoteke Lunapark i lunaparkmlo u svoje resources i raspakirajte.
 U server.cfg dodajte sljedeće retke: 
 
 "ensure Lunapark
- ensure lunaparkmlo"
+ensure lunaparkmlo"
  
 -- dodajte bez ""
 -- ako već imate na serveru postojeću mapu za mlo slobosno je samo dodajte unutra.
